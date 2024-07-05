@@ -1,0 +1,17 @@
+{
+    "url": "https://play.works/",
+    "controls": "<b>Backspace</b> - open the controls guide;<br><b>Space</b> - change background color;<br><b>Enter</b> - submit;<br><b>Tab</b> - open the scores page;<br><b>Up Arrow</b> - move up;<br><b>Down Arrow</b> - move down;<br><b>Left Arrow</b> - move left;<br><b>Right Arrow</b> - move right;",
+    "close": "Close",
+    "clear": "Clear",
+    "question": "Do you want to play <b>Tic Tac Toe</b>?<br>(press <b>Backspace</b> to check the controls)",
+    "yes": "Yes",
+    "no": "No",
+    "playerTurn": "Player's turn",
+    "win": "Player has won",
+    "lose": "AI has won",
+    "draw": "It's a draw",
+    "aiTurn": "AI's turn",
+    "done": "Done",
+    "x": "X",
+    "o": "O"
+}

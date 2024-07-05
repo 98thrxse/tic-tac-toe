@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'TicTacToe';
+    src: url('../fonts/TicTacToe.ttf');
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+
+.dialog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    min-width: 640px;
+    min-height: 360px;
+    text-align: center;
+}
+
+.dialog-message {
+    margin: 5px;
+}
+
+.button {
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: #000;
+    background-color: #fff;
+    border-color: #aaa;
+    margin: 5px;
+}
+
+.match {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.status {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    font-size: 25px;
+    height: 50px;
+    width: 100%;
+}
+
+.board {
+    display: grid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.cell {
+    font-family: "TicTacToe";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #aaa;
+    font-size: 50px;
+}
+
+.line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    background-color: #000;
+}

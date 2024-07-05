@@ -1,0 +1,13 @@
+{
+    "back": "back",
+    "focus": "focus",
+    "move": "move",
+    "win": "win",
+    "lose": "lose",
+    "draw": "draw",
+    "clear": "clear",
+    "ads": "ads",
+    "ask": "ask",
+    "redirect": "redirect",
+    "play": "play"
+}
